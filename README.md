@@ -1,4 +1,3 @@
-# 🎬 Netflix Dataset Cleaning Project
 
 This project focuses on cleaning and preprocessing a real-world dataset from Netflix, downloaded from [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows).
 
